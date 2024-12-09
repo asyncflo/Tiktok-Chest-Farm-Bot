@@ -11,5 +11,6 @@ Die Schleife läuft unbegrenzt weiter. Du kannst den Bot jederzeit beenden, inde
 Menschliches Verhalten:
 Der Bot verwendet zufällige Wartezeiten (random.randint(3, 6)), um menschlicher zu wirken.
 
+Der Pfad zum Chrome Driver muss Manuell eingeben werden in der main.py.
 
 If you need any help hit me up on discord @59bby
