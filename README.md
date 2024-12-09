@@ -10,3 +10,6 @@ Unendlich laufender Bot:
 Die Schleife läuft unbegrenzt weiter. Du kannst den Bot jederzeit beenden, indem du das Programm im Terminal stoppst (z. B. mit Strg+C).
 Menschliches Verhalten:
 Der Bot verwendet zufällige Wartezeiten (random.randint(3, 6)), um menschlicher zu wirken.
+
+
+If you need any help hit me up on discord @59bby
